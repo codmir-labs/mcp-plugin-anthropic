@@ -1,0 +1,28 @@
+{
+  "name": "@codmir/mcp-plugin-anthropic",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Codmir MCP Plugin for Claude — manage projects, tickets, and AI agent tasks from any Claude conversation",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "start:prod": "node dist/index.js",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@codmir/auth": "workspace:*",
+    "@codmir/database": "workspace:*",
+    "@codmir/types": "workspace:*",
+    "@modelcontextprotocol/sdk": "^1.25.2",
+    "@prisma/client": "^6.0.0",
+    "express": "^4.21.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.8.0"
+  }
+}

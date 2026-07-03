@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "codmir": {
+      "type": "streamable-http",
+      "url": "{CODMIR_API_URL}/mcp",
+      "description": "Codmir — AI-native project management. Manage tickets, track work, and dispatch AI agent tasks from Claude.",
+      "authentication": {
+        "type": "bearer",
+        "instructions": "Generate an API token from your Codmir workspace settings (Settings → API Tokens) and paste it here."
+      }
+    }
+  }
+}
