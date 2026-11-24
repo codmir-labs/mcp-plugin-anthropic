@@ -4,11 +4,11 @@
     "name": "Codmir Labs",
     "email": "support@codmir.com"
   },
-  "description": "Codmir connector — manage projects, tickets, and AI agent tasks from Claude",
+  "description": "Codmir plugins for Claude Code.",
   "plugins": [
     {
       "name": "codmir-connector",
-      "description": "Connect Claude to your Codmir workspace. Manage tickets, track work, dispatch AI agent tasks, and save conversation context.",
+      "description": "Work with your Codmir projects, tickets, comments and bug reports from Claude Code, through Codmir's hosted connector.",
       "source": "./"
     }
   ]

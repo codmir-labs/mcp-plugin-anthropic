@@ -1,0 +1,14 @@
+{
+  "name": "codmir-connector",
+  "version": "1.0.0",
+  "description": "Work with your Codmir projects, tickets, comments and bug reports from Claude Code, through Codmir's hosted connector.",
+  "author": {
+    "name": "Codmir Labs",
+    "email": "support@codmir.com",
+    "url": "https://codmir.com"
+  },
+  "homepage": "https://codmir.com",
+  "repository": "https://github.com/codmir-labs/mcp-plugin-anthropic",
+  "license": "Apache-2.0",
+  "keywords": ["codmir", "mcp", "connector", "tickets", "projects", "bug-reports"]
+}
