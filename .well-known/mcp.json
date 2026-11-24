@@ -2,11 +2,14 @@
   "mcpServers": {
     "codmir": {
       "type": "streamable-http",
-      "url": "{CODMIR_API_URL}/mcp",
-      "description": "Codmir — AI-native project management. Manage tickets, track work, and dispatch AI agent tasks from Claude.",
+      "url": "https://mcp.codmir.com/",
+      "description": "Codmir's hosted connector: projects, tickets, comments and bug reports.",
       "authentication": {
-        "type": "bearer",
-        "instructions": "Generate an API token from your Codmir workspace settings (Settings → API Tokens) and paste it here."
+        "type": "oauth2",
+        "resource_metadata": "https://mcp.codmir.com/.well-known/oauth-protected-resource",
+        "authorization_servers": ["https://mcp.codmir.com/"],
+        "scopes_supported": ["mcp:tools"],
+        "instructions": "Your MCP client opens Codmir's sign-in in your browser. There is no token to create or paste."
       }
     }
   }

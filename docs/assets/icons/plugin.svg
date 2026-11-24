@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="reference source">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="Claude Code plugin">
 <rect x="1" y="1" width="46" height="46" rx="12" fill="#7A7A7A" fill-opacity="0.12" stroke="#7A7A7A" stroke-opacity="0.4"/>
 <g transform="translate(12 12)" fill="none" stroke="#7A7A7A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" color="#7A7A7A">
-<path d="m18 16 4-4-4-4"/><path d="m6 8-4 4 4 4"/><path d="m14.5 4-5 16"/>
+<path d="M9 2.5v5M15 2.5v5"/><path d="M4.5 7.5h15"/><path d="M6.5 7.5v4a5.5 5.5 0 0 0 11 0v-4"/><path d="M12 17v4.5"/>
 </g>
 </svg>
