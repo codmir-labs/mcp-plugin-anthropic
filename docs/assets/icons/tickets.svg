@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="tickets">
+<rect x="1" y="1" width="46" height="46" rx="12" fill="#7A7A7A" fill-opacity="0.12" stroke="#7A7A7A" stroke-opacity="0.4"/>
+<g transform="translate(12 12)" fill="none" stroke="#7A7A7A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" color="#7A7A7A">
+<rect x="4.5" y="4" width="15" height="17.5" rx="2.5"/><rect x="8.5" y="2.25" width="7" height="3.5" rx="1.25"/><path d="M8.5 11h.01M8.5 15.5h.01"/><path d="M12 11h4M12 15.5h4"/>
+</g>
+</svg>

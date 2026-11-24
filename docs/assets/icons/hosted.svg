@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="hosted connector">
+<rect x="1" y="1" width="46" height="46" rx="12" fill="#7A7A7A" fill-opacity="0.12" stroke="#7A7A7A" stroke-opacity="0.4"/>
+<g transform="translate(12 12)" fill="none" stroke="#7A7A7A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" color="#7A7A7A">
+<path d="M17.5 19H9a7 7 0 1 1 6.71-9h1.79a4.5 4.5 0 1 1 0 9Z"/>
+</g>
+</svg>
